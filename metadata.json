@@ -1,0 +1,5 @@
+{
+  "name": "CSV to ERD Architect",
+  "description": "Upload CSV files to automatically generate, edit, and visualize database schemas and ERD relationships.",
+  "requestFramePermissions": []
+}
